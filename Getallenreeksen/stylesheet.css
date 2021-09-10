@@ -1,0 +1,8 @@
+label {
+	display:inline-block;
+	width:100px;
+}
+output {
+	background-color:#CCFFCC;
+	padding:1em;
+}
