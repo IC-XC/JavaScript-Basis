@@ -1,0 +1,22 @@
+.rood {
+  background-color:#FF8ABF;
+}
+.groen {
+  background-color:#FFFF99;
+}
+#browserTest {
+  background-color:#FFFF99;
+  font-weight:bold;
+}
+#featureLijst {
+  width:500px;
+}
+.support {
+  float:right;
+}
+ul {
+  background-color:#D8E6F3;
+}
+li {
+  margin:0.2em;
+}
